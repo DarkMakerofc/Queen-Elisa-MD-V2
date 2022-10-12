@@ -25,7 +25,7 @@ Queen Elisa Whatsapp bot made by dark maker base on cheems can you use queen eli
 **1.** _Fork Queen Elisa Repository._
 
 <p align="left">
-<a href="https://github.com/kaviyaofc1/Queen-Elisa-MD-V2/fork"><img align="center" src="https://telegra.ph/file/a8a94d212fd52906b3c8d.jpg" alt="Fork and deploy" height="60" width="155" /></a>
+<a href="https://github.com/kaviyaofc1/Queen-Elisa-MD-V2/fork"><img align="center" src="https://telegra.ph/file/a8a94d212fd52906b3c8d.jpg" alt="Fork and deploy" height="60" width="150" /></a>
 
 
 **2** _Scan Qr code using your whatsapp (install)._
@@ -45,7 +45,7 @@ Queen Elisa Whatsapp bot made by dark maker base on cheems can you use queen eli
 ##  
 ##  
        『 𝙷𝙴𝙻𝙿𝙴𝚁𝚂 』
-          sanjuwa ofc 
+          Sanjuwa ofc 
           Mr bosa
           
      
@@ -54,7 +54,7 @@ Queen Elisa Whatsapp bot made by dark maker base on cheems can you use queen eli
 ## 
 
 #### 『 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 𝙿𝚄𝙱𝙻𝙸𝙲 𝙶𝚁𝙾𝚄𝙿 』
-[`𝙹𝙾𝙸𝙽 𝙽𝙾𝚆`]()
+[`𝙹𝙾𝙸𝙽 𝙽𝙾𝚆`](https://chat.whatsapp.com/F950olXvdc6JH4ZXoH0TQx)
 
 #### 『 𝙷𝙾𝚆 𝚃𝙾 𝙼𝙰𝙺𝙴 𝙱𝙾𝚃 [`𝚆𝙰𝚃𝙲𝙷 𝚅𝙸𝙳𝙴𝙾`]() 』
 
