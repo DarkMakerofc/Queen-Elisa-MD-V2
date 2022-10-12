@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://telegra.ph/file/a8a94d212fd52906b3c8d.jpg" alt="animated" width="300" height="500" />
+  <img src="https://telegra.ph/file/a8a94d212fd52906b3c8d.jpg" alt="animated" width="400" height="200" />
 </p>
   <h2 align="center">• 💃 𝙌𝙐𝙀𝙀𝙉 𝙀𝙇𝙄𝙎𝘼 𝘽𝙊𝙏 💃 •<br></h2>
   
