@@ -8,7 +8,6 @@
 <h6 align= "center"> 
 Queen Elisa Whatsapp bot made by dark maker base on cheems can you use queen elisa with amazing fetures
 </h6>
-##
 
 ## ❤️‍🔥Queen Elisa Public Website
 
