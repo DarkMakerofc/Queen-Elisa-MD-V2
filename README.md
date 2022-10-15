@@ -48,7 +48,7 @@ Queen Elisa Whatsapp bot made by dark maker base on cheems can you use queen eli
       『 𝙷𝙴𝙻𝙿𝙴𝚁𝚂 』
          Sanjuwa ofc 
          Mr bosa
-    "https:github.com/kaviyaofc1/Queen-Elisa-MD-V2"><img align="center" src="https://telegra.ph/file/a8a94d212fd52906b3c8d.jpg" alt="Fork and deploy" height="60" width="150" /></a>    
+   
 
 
 
