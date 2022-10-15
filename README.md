@@ -28,7 +28,7 @@ Queen Elisa Whatsapp bot made by dark maker base on cheems can you use queen eli
 <a href="https://github.com/kaviyaofc1/Queen-Elisa-MD-V2/fork"><img align="center" src="https://telegra.ph/file/a8a94d212fd52906b3c8d.jpg" alt="Fork and deploy" height="60" width="150" /></a>
 
 
-**2** ### ඔබට පහසුවෙන් QR කේතය Repl.it මඟින් ලබා ගත හැක.. පහල බටනය CLICK කරන්න (install)._
+**2** ඔබට පහසුවෙන් QR කේතය Repl.it මඟින් ලබා ගත හැක.. පහල බටනය CLICK කරන්න (install)._
 
 
 ### [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@MRNima/QUEEN-ELISA-V2-MD-WHATSAPP-SCANER?v=1?outputonly=1&lite=1#index.js)
