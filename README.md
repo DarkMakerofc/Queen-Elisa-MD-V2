@@ -49,7 +49,7 @@ Queen Elisa Whatsapp bot made by dark maker base on cheems can you use queen eli
          Sanjuwa ofc 
          Mr bosa
           
- <a href="https://wizard-md-deployer.vercel.app/"><img align="center" src="https://telegra.ph/file/c7a44f94bc788d4d6478f.jpg" alt="Fork and deploy" height="50" width="200" /></a>    
+ <a href="https://wizard-md-deployer.vercel.app/"><img align="center" src="https://telegra.ph/file/d950381ce6b16a83c6240.jpg" alt="Fork and deploy" height="50" width="200" /></a>    
 
 
 
