@@ -2,7 +2,7 @@
   "name": "QUEEN ELISA BOT 2.2.0 V",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/DarkMakerofc/Queen-Elisa-MD",
-  "logo": "https://i.ibb.co/ZWctf3M/Queen-Elisa-Git-Lo-Go.jpg",
+  "logo": "https://telegra.ph/file/a8a94d212fd52906b3c8d.jpg",
   "keywords": ["nodejs", "simple whatsapp bot","whatsapp"],
 
   "env": {
@@ -32,7 +32,7 @@
 "CAPTION" :{
   "description" : "YOUR CAPTION",
   "requred" : false,
-  "value" : "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰"
+  "value" : "*▷ ᴹᴬᴰᴱ 🄱🅈 🎭🇱🇰 KAVIYA OFC 🇱🇰🎭 │*"
   },
   
   "SEND_WELCOME_MASSAGE" :{
@@ -56,7 +56,7 @@
   "BOT_NAME" :{
   "description" : "YOUR BOT NAME",
   "requred" : false,
-  "value" :"𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐕2"
+  "value" :"*▷ 🎭🇱🇰 KAVIYA OFC 🇱🇰🎭*"
   },
 
   "OWNER_NAME" :{
@@ -158,25 +158,25 @@
 "DISPLAY_BUTTON_1" :{
   "description" : "ENTER YOUR URL BUTTON 1 TEXT",
   "requred" : false,
-  "value" :"𝙶𝚒𝚝𝚑𝚞𝚋"
+  "value" :"✨ᴍʏ ᴡʜᴀᴛꜱᴀᴘᴘ ɢʀᴏᴜᴘ✨"
   },
 
 "DISPLAY_BUTTON_2" :{
   "description" : "ENTER YOUR URL BUTTON 2 TEXT",
   "requred" : false,
-  "value" :"𝚈𝚘𝚞𝚝𝚞𝚋𝚎"
+  "value" :"💻GITHUB💻"
   },
 
 "BUTTON_1_URL" :{
   "description" : "ENTER YOUR URL BUTTON 1 URL",
   "requred" : false,
-  "value" :"github.com/darkmakerofc"
+  "value" :"https://chat.whatsapp.com/F950olXvdc6JH4ZXoH0TQx"
   },
 
 "BUTTON_2_URL" :{
   "description" : "ENTER YOUR URL BUTTON 2 URL",
   "requred" : false,
-  "value" :"youtube.com/MRNIMAOFC"
+  "value" :"https://github.com/kaviyaofc1/Queen-Elisa-MD-V2"
   },
 
 "INBOX_BLOCK_MSG" :{
