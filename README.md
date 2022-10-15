@@ -34,7 +34,7 @@ Queen Elisa Whatsapp bot made by dark maker base on cheems can you use queen eli
 ### [`SCAN QR CODE`](https://replit.com/@MRNima/QUEEN-ELISA-V2-MD-WHATSAPP-SCANER?v=1?outputonly=1&lite=1#index.js)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https%3A%2F%2Fgithub.com%2Fsanuwa-official%2Faquabot-md)
+[![Deploy](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkaviyaofc1%2FQueen-Elisa-MD-V2)
 
 **3** _Uplode **session.json** File Your forked repository._
 
