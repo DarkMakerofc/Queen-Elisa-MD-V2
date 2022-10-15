@@ -20,7 +20,7 @@
 "OWNER_NUMBER" :{
   "description" : "OWNER NUMBER",
   "required" : false,
-  "value" :"94715166712"
+  "value" :"94701659592"
   },
 
  "ALIVE_MESSAGE" :{
@@ -62,25 +62,25 @@
   "OWNER_NAME" :{
   "description" : "YOUR NAME",
   "requred" : false,
-  "value" :"ＭＲ ＮＩＭＡ"
+  "value" :"🎭🇱🇰 KAVIYA OFC 🇱🇰🎭"
   },
 
   "STICKER_PACK_NAME" :{
   "description" : "STICKER PACKAGE NAME",
   "requred" : true,
-  "value" :"𝙌𝙪𝙚𝙚𝙣 𝙀𝙡𝙞𝙨𝙖 𝙑2"
+  "value" :"🔰𝙺𝙰𝚅𝙸𝚈𝙰 𝙾𝙵𝙲 𝚂𝙿𝙴𝙴𝙳 𝙴𝙳𝙸𝚃𝙸𝙽𝙶࿐"
   },
 
   "STICKER_AUTHOR_NAME" :{
   "description" : "STICKER AUTHOR NAME",
   "requred" : true,
-  "value" :"ＭＲ.ＮＩＭＡ ＯＦＣ"
+  "value" :"🎭🇱🇰 KAVIYA OFC 🇱🇰🎭"
   },
 
   "ALIVE_LOGO" :{
   "description" : "YOUR BOT ALIVE LOGO GET YOUR LINK UPLOAD imgbb.com WEB SITE ",
   "requred" : true,
-  "value" :"https://telegra.ph/file/1a2dee71baa975091620d.jpg"
+  "value" :"https://telegra.ph/file/a8a94d212fd52906b3c8d.jpg"
   },
 
   "WELCOME_MSG" :{
@@ -202,7 +202,7 @@
  "VOICE_REPLY" :{
   "description" : "REPLY GIRL VOICE",
   "required" : true,
-  "value" :"true"
+  "value" :"false"
   },
    "NUMBER_212_BLOCK" :{
   "description" : "BLOCK +212 INBOX MASSAGE SENDERS",
