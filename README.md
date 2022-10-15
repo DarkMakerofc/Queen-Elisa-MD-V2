@@ -28,18 +28,18 @@ Queen Elisa Whatsapp bot made by dark maker base on cheems can you use queen eli
 <a href="https://github.com/kaviyaofc1/Queen-Elisa-MD-V2/fork"><img align="center" src="https://telegra.ph/file/a8a94d212fd52906b3c8d.jpg" alt="Fork and deploy" height="60" width="150" /></a>
 
 
-**2**  ඔබට පහසුවෙන් QR කේතය Repl.it මඟින් ලබා ගත හැක.. පහල බටනය CLICK කරන්න
+**2.**  ඔබට පහසුවෙන් QR කේතය Repl.it මඟින් ලබා ගත හැක.. පහල බටනය CLICK කරන්න
 
 
 ### [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@MRNima/QUEEN-ELISA-V2-MD-WHATSAPP-SCANER?v=1?outputonly=1&lite=1#index.js)
 
 
-**3** _Uplode **session.json** File Your forked repository._
+**3.** _Uplode **session.json** File Your forked repository._
 
 
-**4**  _[Make your deploy link `Video`]() and deploy your bot using link Fill heroku_
+**4.**  _[Make your deploy link `Video`]() and deploy your bot using link Fill heroku_
 
-**5**  QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
+**5.**  QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
   
   ## [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kaviyaofc1/Queen-Elisa-MD-V2)
 ##  
