@@ -39,12 +39,15 @@ Queen Elisa Whatsapp bot made by dark maker base on cheems can you use queen eli
 
 **4**  _[Make your deploy link `Video`]() and deploy your bot using link Fill heroku_
 
+**5**  QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
+  
   ## [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kaviyaofc1/Queen-Elisa-MD-V2)
 ##  
-##  
-       『 𝙷𝙴𝙻𝙿𝙴𝚁𝚂 』
-          Sanjuwa ofc 
-          Mr bosa
+##
+
+      『 𝙷𝙴𝙻𝙿𝙴𝚁𝚂 』
+         Sanjuwa ofc 
+         Mr bosa
           
      
 
