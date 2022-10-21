@@ -1,5 +1,5 @@
 {
-  "name": "QUEEN ELISA BOT 2.3.0 V",
+  "name": "SHAHEEN OFFICIAL 2.3.0 V",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/DarkMakerofc/Queen-Elisa-MD-V2",
   "logo": "https://telegra.ph/file/30e4c947775ac2a0d2897.jpg",
@@ -20,7 +20,7 @@
 "OWNER_NUMBER" :{
   "description" : "OWNER NUMBER",
   "required" : false,
-  "value" :"94715166712"
+  "value" :"03087609409"
   },
 
  "ALIVE_MESSAGE" :{
@@ -32,7 +32,7 @@
 "CAPTION" :{
   "description" : "YOUR CAPTION",
   "requred" : false,
-  "value" : "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰"
+  "value" : "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 SHAHEEN OFFICIAL"
   },
   
   "SEND_WELCOME_MASSAGE" :{
@@ -56,7 +56,7 @@
   "BOT_NAME" :{
   "description" : "YOUR BOT NAME",
   "requred" : false,
-  "value" :"𝖰𝖴𝖤𝖤𝖭 𝖤𝖫𝖨𝖲𝖠 𝖵𝟤"
+  "value" :"SHAHEEN OFFICIAL"
   },
 
   "OWNER_NAME" :{
@@ -68,13 +68,13 @@
   "STICKER_PACK_NAME" :{
   "description" : "STICKER PACKAGE NAME",
   "requred" : true,
-  "value" :"𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔 𝟮.𝟯.𝟬 𝗩"
+  "value" :"SHAHEEN OFFICIAL"
   },
 
   "STICKER_AUTHOR_NAME" :{
   "description" : "STICKER AUTHOR NAME",
   "requred" : true,
-  "value" :"🅝🅘🅜🅐 🅞🅕🅒"
+  "value" :"SHAHEEN OFFICIAL"
   },
 
   "ALIVE_LOGO" :{
@@ -85,13 +85,13 @@
 
   "WELCOME_MSG" :{
   "description" : "YOUR WELCOME MASSAGE",
-  "required" : false,
+  "required" : true,
     "value" :""
   },
 
   "GOODBYE_MSG" :{
   "description" : "YOUR GOODBYE MASSAGE",
-  "required" : false,
+  "required" : true,
     "value" :""
   },
 
@@ -116,7 +116,7 @@
   "EXTRA_API" :{
   "description" : "THIS IS GET ON SUPPORT GROUP",
   "required" : true,
-  "value" :"මේක සපෝට් එකෙන් ඉල්ල ගන්න"
+  "value" :"SHAHEEN OFFICIAL"
   },
 
   "PREFA" :{
@@ -201,8 +201,8 @@
   },
  "VOICE_REPLY" :{
   "description" : "REPLY GIRL VOICE",
-  "required" : true,
-  "value" :"true"
+  "required" : false,
+  "value" :"false"
   },
    "REMOVE_BG_API" :{
   "description" : "API KEY GET ON removebg.com SITE",
@@ -226,7 +226,7 @@
   },
      "SEX_VIDEO_DOWNLOAD" :{
   "description" : "ALOWD 18+ VIDEO DOWNLOAD",
-  "required" : true,
+  "required" : false,
   "value" :"false"
   }
   
