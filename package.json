@@ -21,7 +21,7 @@
   "author": "DARKMAKER(mrnima)",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "git+https://github.com/MR-NIMA-X/Baileys.git",
+    "@adiwajshing/baileys": "git+https://github.com/MR-NIMA-X/Basldhdhrhdeydyrleys.git",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^2.0.0",
     "awesome-phonenumber": "^2.64.0",
