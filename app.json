@@ -1,7 +1,7 @@
 {
-  "name": "QUEEN ELISA BOT 2.2.0 V",
+  "name": "*▷ 🎭🇱🇰 KAVIYA OFC 🇱🇰🎭* 3.3.0 V",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/kaviyaofc1/Queen-Elisa-MD",
+  "repository": "https://github.com/kaviyaofc1/KAVIYA-OFC-MD",
   "logo": "https://telegra.ph/file/a8a94d212fd52906b3c8d.jpg",
   "keywords": ["nodejs", "simple whatsapp bot","whatsapp"],
 
@@ -164,7 +164,7 @@
 "DISPLAY_BUTTON_2" :{
   "description" : "ENTER YOUR URL BUTTON 2 TEXT",
   "requred" : false,
-  "value" :"💻GITHUB💻"
+  "value" :"✨ɢɪᴛʜᴜʙ✨"
   },
 
 "BUTTON_1_URL" :{
@@ -176,7 +176,7 @@
 "BUTTON_2_URL" :{
   "description" : "ENTER YOUR URL BUTTON 2 URL",
   "requred" : false,
-  "value" :"https://github.com/kaviyaofc1/Queen-Elisa-MD-V2"
+  "value" :"https://github.com/kaviyaofc1/KAVIYA-OFC-MD-V2"
   },
 
 "INBOX_BLOCK_MSG" :{
