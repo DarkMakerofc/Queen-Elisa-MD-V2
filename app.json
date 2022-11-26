@@ -26,7 +26,7 @@
  "ALIVE_MESSAGE" :{
   "description" : "TYPE YOUR ALIVE MASSAGE",
   "required" : false,
-"value" : "default"
+"value" : "📤I am alive now🎭*"
   },
 
 "CAPTION" :{
@@ -53,7 +53,7 @@
   "value" : "false"
   },
 
-  "BOT_NAME" :{
+  "KAVIYA-BOT_NAME" :{
   "description" : "YOUR BOT NAME",
   "requred" : false,
   "value" :"*▷ 🎭🇱🇰 KAVIYA OFC 🇱🇰🎭*"
@@ -68,7 +68,7 @@
   "STICKER_PACK_NAME" :{
   "description" : "STICKER PACKAGE NAME",
   "requred" : true,
-  "value" :"🔰𝙺𝙰𝚅𝙸𝚈𝙰 𝙾𝙵𝙲 𝚂𝙿𝙴𝙴𝙳 𝙴𝙳𝙸𝚃𝙸𝙽𝙶࿐"
+  "value" :"*▷ ᴹᴬᴰᴱ 🄱🅈 🎭🇱🇰 KAVIYA OFC 🇱🇰🎭 │*"
   },
 
   "STICKER_AUTHOR_NAME" :{
@@ -192,12 +192,12 @@
  "SONG_DOWNLOAD" :{
   "description" : "SONG DOWNLOADING MASSAGE",
   "required" : true,
-  "value" :"🔁 SERACHING YOUR SONG"
+  "value" :"*🎙️. ඔබ ඉල්ලූ ගීතය DOWNLOAD වෙමින් පවතී.**▷ ᴹᴬᴰᴱ 🄱🅈 🎭🇱🇰 KAVIYA OFC 🇱🇰🎭 │*"
   },
  "SONG_UPLOAD" :{
   "description" : "SONG UPLOADING MASSAGE",
   "required" : true,
-  "value" :"📤 UPLOADING YOUR SONG"
+  "value" :"*🎙️. ඔබ ඉල්ලූ ගීතය UPLOAD වෙමින් පවතී.**▷ ᴹᴬᴰᴱ 🄱🅈 🎭🇱🇰 KAVIYA OFC 🇱🇰🎭 │*"
   },
  "VOICE_REPLY" :{
   "description" : "REPLY GIRL VOICE",
