@@ -1,5 +1,5 @@
 {
-  "name": "Queen-Elisa",
+  "name": "🎭🇱🇰 KAVIYA OFC 🇱🇰🎭",
   "version": "1.0.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "DARKMAKER(mrnima)",
+  "author": "KAVIYA(kaviyaofc)",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/MR-NIMA-X/Baileys.git",
