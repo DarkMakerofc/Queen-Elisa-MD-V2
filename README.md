@@ -47,6 +47,15 @@ A very good bot that you can use in whatsapp.
 * 𝗛𝗘𝗥𝗢𝗞𝗨 𝗧𝗘𝗠𝗣𝗟𝗔𝗧𝗘 𝗟𝗜𝗡𝗞
        
           https://heroku.com/deploy?template=
+  #
+  2. ### Deploy on koyeb
+   1. Create an account in [koyeb](https://app.koyeb.com/auth/signup). [SignUp Now](https://app.koyeb.com/auth/signup)
+   2. Get [DATABASE_URL](https://github.com/DarkMakerofc/Queen-Elisa-MD-V2/wiki/DATABASE_URL), You needs while depolying
+   3. [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@MRNima/QUEEN-ELISA-V2-MD-WHATSAPP-SCANER?v=1?outputonly=1&lite=1#index.js), Open Linked Devices in WhatsaApp and [SCAN](https://replit.com/@MRNima/QUEEN-ELISA-V2-MD-WHATSAPP-SCANER?v=1?outputonly=1&lite=1#index.js) Now.
+   4. Get Koyeb API key. [Let Go](https://app.koyeb.com/account/api)
+   5. [DEPLOY](https://replit.com/@MRNima/QUEEN-ELISA-V2-MD-WHATSAPP-SCANER?v=1?outputonly=1&lite=1#index.js) Now.
+   6. Enter [Environment Variables](https://github.com/DarkMakerofc/Queen-Elisa-MD-V2/wiki/Environment_Variables), [Read More](https://github.com/DarkMakerofc/Queen-Elisa-MD-V2/wiki/Environment_Variables)
+   7. Enter Name and Click Create service
 
 
 ## [`WATCH YOUTUBE VIDEO`](youtube.com/MRNIMAOFC)
